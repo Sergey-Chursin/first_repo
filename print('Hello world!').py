@@ -3,3 +3,5 @@ print('11Hello world!')
 
 А это новая строка кода
 >>>>>>> 99c3a17acdaa1dff72012cdb80142a3adbde1cc2
+
+Изменение 1
