@@ -5,3 +5,4 @@ print('11Hello world!')
 >>>>>>> 99c3a17acdaa1dff72012cdb80142a3adbde1cc2
 
 Изменение 1
+Изменение 3
